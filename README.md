@@ -11,3 +11,9 @@ Starter (boilerplate) for all future projects.
 * Don't start with nothing
 * Common boilerplate for web projects
 * I am a human being who makes mistakes
+
+## Citations
+* [Text to be shown](URL)
+* [Google Fonts](https://fonts.google.com)
+* [CodePen](https://codepen.io)
+* [Blush](https://blush.design)
